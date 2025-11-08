@@ -1,0 +1,3 @@
+Calculating average expression per condition...
+Treated average expression: 7.95
+Control average expression: 6.03333
