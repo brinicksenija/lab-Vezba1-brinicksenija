@@ -1,0 +1,3 @@
+SeqKit -- a cross-platform and ultrafast toolkit for FASTA/Q file manipulation
+
+Version: 2.3.0

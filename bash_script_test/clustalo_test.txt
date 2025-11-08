@@ -1,0 +1,3 @@
+Clustal Omega - 1.2.4 (AndreaGiacomo)
+
+If you like Clustal-Omega please cite:
