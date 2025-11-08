@@ -1,0 +1,6 @@
+SampleID,Expression,Condition
+S1,5.5,Control
+S2,7.8,Treated
+S3,6.7,Control
+S4,8.1,Treated
+S5,5.9,Control
