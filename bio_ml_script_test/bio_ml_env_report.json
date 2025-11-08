@@ -1,0 +1,92 @@
+{
+  "meta": {
+    "python": "3.12.3",
+    "executable": "/usr/bin/python3",
+    "platform": "Linux-6.14.0-35-generic-x86_64-with-glibc2.39",
+    "machine": "x86_64",
+    "cwd": "/home/ksenija/Documents/lab-Vezba1-brinicksenija/lab-Vezba1-brinicksenija/bio_ml_script_test",
+    "conda_env": null,
+    "conda_prefix": null
+  },
+  "numpy": {
+    "present": false,
+    "error": "No module named 'numpy'"
+  },
+  "scipy": {
+    "present": false,
+    "error": "No module named 'scipy'"
+  },
+  "pandas": {
+    "present": false,
+    "error": "No module named 'pandas'"
+  },
+  "matplotlib": {
+    "present": false,
+    "version": null
+  },
+  "seaborn": {
+    "present": false,
+    "version": null
+  },
+  "scikit_learn": {
+    "present": false,
+    "error": "No module named 'sklearn'"
+  },
+  "statsmodels": {
+    "present": false,
+    "error": "No module named 'statsmodels'"
+  },
+  "networkx": {
+    "present": false,
+    "version": null
+  },
+  "biopython": {
+    "present": false,
+    "version": null
+  },
+  "scikit_bio": {
+    "present": false,
+    "version": null
+  },
+  "matplotlib_venn": {
+    "present": false,
+    "version": null
+  },
+  "tensorflow": {
+    "present": false,
+    "error": null
+  },
+  "pytorch": {
+    "present": false,
+    "error": null
+  },
+  "ipykernel": {
+    "present": false,
+    "version": null
+  },
+  "jupyter_kernel_registry": {
+    "error": "No module named 'jupyter_client'"
+  },
+  "summary": {
+    "ok_packages": [
+      "jupyter_kernel_registry"
+    ],
+    "missing_packages": [
+      "biopython",
+      "ipykernel",
+      "matplotlib",
+      "matplotlib_venn",
+      "networkx",
+      "numpy",
+      "pandas",
+      "pytorch",
+      "scikit_bio",
+      "scikit_learn",
+      "scipy",
+      "seaborn",
+      "statsmodels",
+      "tensorflow"
+    ],
+    "elapsed_sec": 0.0
+  }
+}
